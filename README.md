@@ -9,9 +9,6 @@ This is a simple **Digital Clock** Java application that displays the current ti
 - **Real-Time Update**: The time is updated every second to display the current time accurately.
 - **Customizable Fonts and Colors**: The time and date labels use bold fonts and customizable colors.
 
-## Screenshot
-
-*(You can add a screenshot here if you'd like)*
 
 ## Code Overview
 
